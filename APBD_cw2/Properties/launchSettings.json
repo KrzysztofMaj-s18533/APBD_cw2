@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "APBD_cw2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\peacr\\Desktop\\dane.csv\" \"C:\\Users\\peacr\\Desktop\\wynik.xml\" xml"
+    }
+  }
+}
